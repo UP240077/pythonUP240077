@@ -15,7 +15,7 @@ print (Bm)
 bj= 4**3
 print (bj)
 bi= 4//41
-print bi
+print (bi)
 #Bien hecho, ahora sabes usar el python shell 
 #Mi nombre es Angel, soy de la familia correa vivo en mexico y estoy disfrutando de los 30 dias de python
 
